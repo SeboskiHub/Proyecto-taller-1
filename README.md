@@ -1,21 +1,17 @@
-# 📌 Nombre del Proyecto
+# 📌 Drift Cars Page
 
 ## 📄 Descripción
-Breve explicación del proyecto: qué hace, su objetivo, funcionalidades principales, contexto o problema que resuelve.
+HTML and CSS practice using a template, transforming the template into a drift car page.
 
 ---
 
 ## 🛠 Tecnologías usadas
-- Tecnología 1
-- Tecnología 2
-- Tecnología 3
-- ...
-  
+- HTML 5
+- CSS 3
+- Javascript
 ---
-
-## 🚀 Instalación / Visualización
 
 ### 🔧 Clonar el repositorio
 ```bash
-git clone https://github.com/usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/SeboskiHub Proyecto-taller-1.git
+cd Proyecto-taller-1
