@@ -9598,8 +9598,8 @@ h6,
   align-items: center;
   justify-content: center;
   border-radius: 45px;
-  color: #33211D;
-  background: #DA9F5B;
+  color: black;
+  background: red;
 }
 
 .menu-price {
@@ -9653,7 +9653,7 @@ h6,
 .page-header,
 .offer,
 .footer {
-  background: linear-gradient(rgba(51, 33, 29, 0.9), rgba(51, 33, 29, 0.9)), url(../img/bg.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5)), url(../img/japan-cyberpunk-ofjbyyiivh156dyz.webp);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
