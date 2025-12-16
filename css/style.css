@@ -152,13 +152,13 @@ sup {
 }
 
 a {
-  color: #a15bda;
+  color: red;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #be792b;
+  color: white;
   text-decoration: underline;
 }
 
@@ -6290,9 +6290,6 @@ button.bg-dark:focus {
   border-radius: 0.3rem !important;
 }
 
-.rounded-circle {
-  border-radius: 50% !important;
-}
 
 .rounded-pill {
   border-radius: 50rem !important;
@@ -9613,8 +9610,8 @@ h6,
   align-items: center;
   justify-content: center;
   border-radius: 45px;
-  color: #33211D;
-  background: #DA9F5B;
+  color: white;
+  background: red;
 }
 
 .testimonial-carousel .owl-dots {
